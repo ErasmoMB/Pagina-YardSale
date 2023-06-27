@@ -1,15 +1,38 @@
-# Pagina-JavaScript
-Pagina de Front Developer con JavaScript
+# Implementacion de maquetacion de YardSale
 
-*Puede agregarse productos al carro de compras
-*Permite agregar productos desde JS
+Página YardSale es un proyecto de sitio web que utiliza HTML, CSS y JavaScript para crear una página interactiva y dinámica.
 
-****** Vista desktop *******
+## Descripción
 
+Página YardSale es un proyecto que muestra la implementación de diferentes características y funcionalidades de JavaScript en una página web. El sitio web demuestra el uso de eventos, manipulación del DOM, interacción con el usuario y otras técnicas de programación con JavaScript.
 
-![erasmomb github io_Pagina-JavaScript_ (1)](https://user-images.githubusercontent.com/114953172/227098510-b6485e7a-c076-427d-a51f-ce549d28ef28.png)
+## Características
 
-****** Vista de mobile *******
+- Uso de HTML, CSS y JavaScript para crear una página web interactiva.
+- Implementación de eventos para responder a las acciones del usuario.
+- Manipulación del DOM para actualizar y modificar elementos en la página.
 
+## Autor
 
-![erasmomb github io_Pagina-JavaScript_ (2)](https://user-images.githubusercontent.com/114953172/227098573-b523cea9-4643-422e-9bd5-de809c2d6089.png)
+**Erasmo Montufar**
+
+- LinkedIn: [Erasmo Montufar](https://www.linkedin.com/in/erasmomb/)
+- Portafolio web: [https://checas.com.pe/](https://checas.com.pe/)
+
+## Ver la página en vivo
+
+- [Página YardSale](https://erasmomb.github.io/Pagina-JavaScript/)
+
+## Instalación
+
+1. Clona el repositorio: `git clone https://github.com/ErasmoMB/Pagina-YardSale.git`
+2. Abre el archivo `index.html` en tu navegador web.
+
+## Contratación
+
+Si quieres contratarme, puedes escribirme a montufarbe@gmail.com para consultas.
+
+## Licencia 📃
+
+Este proyecto está bajo la Licencia MIT y no puede usarse comercialmente.
+
